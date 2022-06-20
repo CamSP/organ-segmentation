@@ -1,0 +1,11 @@
+**/*__pycache__/*
+*.env
+env_vars*
+credentials*
+scripts/checkpoints/*
+data/results/*
+data/train/*
+.ipynb_checkpoints
+**/build/*
+/node_modules
+scripts/data_acquisition/uw-madison-gi-tract-image-segmentation.zip

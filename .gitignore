@@ -5,5 +5,13 @@ credentials*
 scripts/checkpoints/*
 data/results/*
 data/train/*
+data/preprocess/*
+data/masks/*
 .ipynb_checkpoints
 **/build/*
+*.index
+checkpoint*
+events*
+*.log
+training*
+predictions_*
